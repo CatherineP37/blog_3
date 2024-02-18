@@ -91,7 +91,8 @@ DATABASES = {
 
 CSRF_TRUSTED_ORIGINS = [
     "https://8000-catherinep37-blog3-kcbs0z6mpbx.ws-eu108.gitpod.io/",
-    "https://blog-33-45003fbda412.herokuapp.com/"
+    "https://blog-33-45003fbda412.herokuapp.com/",
+    "https://8000-catherinep37-blog3-kcbs0z6mpbx.ws-eu108.gitpod.io"
 ]
 
 
